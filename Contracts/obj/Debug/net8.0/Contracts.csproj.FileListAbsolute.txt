@@ -1,0 +1,12 @@
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\bin\Debug\net8.0\Contracts.deps.json
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\bin\Debug\net8.0\Contracts.dll
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\bin\Debug\net8.0\Contracts.pdb
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\obj\Debug\net8.0\Contracts.dll
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\obj\Debug\net8.0\Contracts.pdb
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Contracts\obj\Debug\net8.0\ref\Contracts.dll

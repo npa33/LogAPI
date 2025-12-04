@@ -1,0 +1,12 @@
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\bin\Debug\net8.0\Common.Logging.deps.json
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\bin\Debug\net8.0\Common.Logging.dll
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\bin\Debug\net8.0\Common.Logging.pdb
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.AssemblyReference.cache
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\obj\Debug\net8.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfoInputs.cache
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfo.cs
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.CoreCompileInputs.cache
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\obj\Debug\net8.0\Common.Logging.dll
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\obj\Debug\net8.0\refint\Common.Logging.dll
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\obj\Debug\net8.0\Common.Logging.pdb
+F:\PROJECTS\2. MES\Save Log\SaveLog.Api\Common.Logging\obj\Debug\net8.0\ref\Common.Logging.dll
